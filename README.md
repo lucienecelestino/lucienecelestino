@@ -4,36 +4,42 @@
 
 Eu me chamo Luciene Celestino da Silva, tenho 24 anos e sou natural de São Paulo. Concluí o ensino médio e cursei o técnico em Informática pela ETEC Giannini Teixeira. Atualmente, curso Análise e Desenvolvimento de Sistemas na FATEC Santana de Parnaíba, com foco no desenvolvimento de minhas habilidades na área de tecnologia e programação.
 <p align="left">
-  
-   <a href="https://www.linkedin.com/in/luciene-celestino-599701325/">
- <a href="https://www.linkedin.com/in/luciene-celestino-599701325/">
-  <img 
-    alt="LinkedIn" 
-    title="Conecte-se comigo no LinkedIn" 
-    src="https://custom-icon-badges.demolab.com/badge/LinkedIn-30%2B%20Conex%C3%B5es-555555?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"
-  />
-</a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/luciene-celestino-599701325/">
+    <img 
+      alt="LinkedIn"
+      title="Conecte-se comigo no LinkedIn"
+      src="https://custom-icon-badges.demolab.com/badge/LinkedIn-30%2B%20Conex%C3%B5es-555555?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"
+    />
+  </a>
+
+  <!-- GitHub Followers -->
+  <a href="https://github.com/lucienecelestino">
+    <img 
+      alt="GitHub Followers"
+      title="Me siga no GitHub"
+      src="https://img.shields.io/github/followers/lucienecelestino?style=for-the-badge&logo=github&logoColor=white&color=181717"
+    />
+  </a>
 
 
-    
-<img src="https://img.shields.io/github/followers/lucienecelestino?style=for-the-badge&logo=github&logoColor=white&color=181717" alt="GitHub Followers" />
-    <a href="https://github.com/lucienecelestino?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/lucienecelestino?color=181717&style=for-the-badge&labelColor=yellow&logo=star&label=estrelas"
-        />
-    </a>
-   
+  <!-- GitHub Stars -->
+  <a href="https://github.com/lucienecelestino?tab=repositories&sort=stargazers">
+    <img 
+      alt="Total de estrelas"
+      title="Total de estrelas no GitHub"
+      src="https://custom-icon-badges.demolab.com/github/stars/lucienecelestino?style=for-the-badge&logo=star&logoColor=white&color=181717&labelColor=3C3C3C&label=estrelas"
+    />
+  </a>
 
-    
 </p>
+
 
 ---
 
 ### 🤖 Linguagens e Tecnologias
-
-
+<p align="center">
 <img 
     align="left" 
     alt="JavaScript" 
@@ -76,8 +82,8 @@ Eu me chamo Luciene Celestino da Silva, tenho 24 anos e sou natural de São Paul
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
-<br/>
-<br/>
-
 </p>
+<br/>
+<br/>
+</p>
+
