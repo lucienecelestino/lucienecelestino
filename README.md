@@ -2,39 +2,33 @@
 
 **`Desenvolvedora`**
 
-Me chamo Luciene Celestino da Silva, tenho 24 anos e sou natural de São Paulo. Concluí o ensino médio e cursei o técnico em Informática pela ETEC Giannini Teixeira. Atualmente, curso Análise e Desenvolvimento de Sistemas na FATEC Santana de Parnaíba, com foco no desenvolvimento de minhas habilidades na área de tecnologia e programação.
+Eu me chamo Luciene Celestino da Silva, tenho 24 anos e sou natural de São Paulo. Concluí o ensino médio e cursei o técnico em Informática pela ETEC Giannini Teixeira. Atualmente, curso Análise e Desenvolvimento de Sistemas na FATEC Santana de Parnaíba, com foco no desenvolvimento de minhas habilidades na área de tecnologia e programação.
 <p align="left">
-  <!--
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@larissakich">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+  
+   <a href="https://www.linkedin.com/in/luciene-celestino-599701325/">
+ <a href="https://www.linkedin.com/in/luciene-celestino-599701325/">
+  <img 
+    alt="LinkedIn" 
+    title="Conecte-se comigo no LinkedIn" 
+    src="https://custom-icon-badges.demolab.com/badge/LinkedIn-30%2B%20Conex%C3%B5es-555555?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"
+  />
+</a>
+
+
+    
+<img src="https://img.shields.io/github/followers/lucienecelestino?style=for-the-badge&logo=github&logoColor=white&color=181717" alt="GitHub Followers" />
+    <a href="https://github.com/lucienecelestino?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/lucienecelestino?color=181717&style=for-the-badge&labelColor=yellow&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+   
+
+    
 </p>
--->
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -65,16 +59,22 @@ Me chamo Luciene Celestino da Silva, tenho 24 anos e sou natural de São Paulo. 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 
-
-
+<img 
+    align="left" 
+    alt="C" 
+    title="C"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+/>
 
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="Python" 
+    title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
 <br/>
