@@ -2,7 +2,7 @@
 
 **`Futura Desenvolvedora`**
 
-Eu me chamo Luciene Celestino da Silva, tenho 24 anos e sou natural de São Paulo. Concluí o ensino médio e cursei técnico em Informática pela ETEC Giannini Teixeira. Atualmente, curso Análise e Desenvolvimento de Sistemas na FATEC Santana de Parnaíba, com foco no desenvolvimento de minhas habilidades na área de tecnologia e programação.
+Eu me chamo Luciene Celestino da Silva, tenho 24 anos e sou natural de São Paulo. Concluí o ensino médio pela escola pública e cursei o ensino técnico em Informática pela ETEC Giannini Teixeira. Atualmente, curso Análise e Desenvolvimento de Sistemas na FATEC Santana de Parnaíba, com foco no desenvolvimento de minhas habilidades na área de tecnologia e programação.
 <p align="left">
 
   <!-- LinkedIn -->
