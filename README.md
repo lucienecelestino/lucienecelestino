@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Luciene Celestino
 
-**`Futura Desenvolvedora`**
+**`Me descobrindo na Área de Desenvolvimento`**
 
 Eu me chamo Luciene Celestino da Silva, tenho 24 anos e sou natural de São Paulo. Concluí o ensino médio pela escola pública e cursei o ensino técnico em Informática pela ETEC Giannini Teixeira. Atualmente, curso Análise e Desenvolvimento de Sistemas na FATEC Santana de Parnaíba, com foco no desenvolvimento de minhas habilidades na área de tecnologia e programação.
 <p align="left">
@@ -39,6 +39,7 @@ Eu me chamo Luciene Celestino da Silva, tenho 24 anos e sou natural de São Paul
 ---
 
 ### 🤖 Linguagens e Tecnologias
+
 <p align="center">
 <img 
     align="left" 
@@ -87,7 +88,19 @@ Eu me chamo Luciene Celestino da Silva, tenho 24 anos e sou natural de São Paul
 <br/>
 </p>
 
+----
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucienecelestino&show_icons=true&theme=dracula)
+  ### 📈 Estatísticas do GitHub
+<div align="center">
+    
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucienecelestino&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lucienecelestino&theme=dracula)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucienecelestino&theme=dracula)
+
+</div>
+
+
+
 
 
