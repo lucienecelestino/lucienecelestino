@@ -87,3 +87,6 @@ Eu me chamo Luciene Celestino da Silva, tenho 24 anos e sou natural de São Paul
 <br/>
 </p>
 
+
+![Luciene Celestino GitHub stats](https://github-readme-stats.vercel.app/api?username=lucienecelestino&show_icons=true&theme=dracula)
+
